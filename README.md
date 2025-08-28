@@ -1,6 +1,7 @@
 💻 Jornada na Tecnologia
 
 Bem-vindo(a) ao meu repositório de estudos!
+
 ![GIF animado](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjB5aHdnc3pmc3ZhY2J5Y2thNWpiNXhwOHdhdmxqdTY2amtoYXE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGVp95GDPgFYmUE/giphy.gif)
 
 Aqui registro minha jornada de aprendizado no mundo da tecnologia e da programação.
