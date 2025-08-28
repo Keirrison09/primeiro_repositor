@@ -14,6 +14,7 @@ Porque quero crescer na área de tecnologia, entender como as coisas funcionam p
 Se quiser trocar ideia, mandar dicas ou só dar um oi:
 
 ✉️ Email: lucaskeirrison01@gmail.com
+
 📸 Instagram : @keirrison.lucas.5623
 
 
