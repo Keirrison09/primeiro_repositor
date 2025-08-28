@@ -1,4 +1,3 @@
-# primeiro_repositor
 💻 Jornada na Tecnologia
 
 Bem-vindo(a) ao meu repositório de estudos!
